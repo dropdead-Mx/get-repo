@@ -1,22 +1,17 @@
-               |                                 
-   _` |   _ \  __|        __|  _ \  __ \    _ \  
-  (   |   __/  | _____|  |     __/  |   |  (   | 
- \__, | \___| \__|      _|   \___|  .__/  \___/  
- |___/                             _|            
 
 
-# version: Moises
-# Author:  Germán Martínez Solís (dropdead-Mx)
-# youtube: https://www.youtube.com/user/TheDarkSideOfLinux
-# Mail:    gms.linux@gmail.com
+version: Moises
+Author:  Germán Martínez Solís (dropdead-Mx)
+youtube: https://www.youtube.com/user/TheDarkSideOfLinux
+Mail:    gms.linux@gmail.com
                                                                          
-The best teacher I´ve had is Google                                       
+                                     
                                                                           
-############################################################################
-# Es una utileria para agregar nativamente desde debian 6 y 7 repositorios #
-# desde launchpad sin necesidad de modificar el source.list del sistema    #
-# y sin hacer uso alguno de scripts como launchpad-getkeys                 #
-############################################################################
+
+Es una utileria para agregar nativamente desde debian 6 y 7 repositorios 
+desde launchpad sin necesidad de modificar el source.list del sistema    
+y sin hacer uso alguno de scripts como launchpad-getkeys                 
+
 
     _|    _|    _|_|_|    _|_|    
     _|    _|  _|_|      _|    _|  
