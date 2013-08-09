@@ -1,8 +1,18 @@
-
+                                                                                   
+                       _|                                                          
+   _|_|_|    _|_|    _|_|_|_|              _|  _|_|    _|_|    _|_|_|      _|_|    
+ _|    _|  _|_|_|_|    _|      _|_|_|_|_|  _|_|      _|_|_|_|  _|    _|  _|    _|  
+ _|    _|  _|          _|                  _|        _|        _|    _|  _|    _|  
+   _|_|_|    _|_|_|      _|_|              _|          _|_|_|  _|_|_|      _|_|    
+       _|                                                      _|                  
+   _|_|                                                        _|                  
 
 version: Moises
+
 Author:  Germán Martínez Solís (dropdead-Mx)
+
 youtube: https://www.youtube.com/user/TheDarkSideOfLinux
+
 Mail:    gms.linux@gmail.com
                                                                          
                                      
